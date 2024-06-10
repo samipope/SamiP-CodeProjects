@@ -2,7 +2,7 @@ import java.net.ServerSocket;
 import java.io.IOException;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
         // listen at port 8080
         try (ServerSocket serverSocket = new ServerSocket(8080)) {
             Server server = new Server(serverSocket);
@@ -13,6 +13,3 @@ public class Main {
         }
     }
 }
-
-//TODO add in comments at the top of each of the classes about purpose
-//TODO fix the

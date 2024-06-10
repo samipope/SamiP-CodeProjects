@@ -24,10 +24,11 @@ public class Request {
     }
 
     public String getFilePath(String fn) {
-      //  String basePath = "../../resources";
-       String basePath = "/Users/samanthapope/PortfolioGithub/ChatClient/ChatClient/resources/";
-       // String basePath = "/Users/samanthapope/MSD/Github/CS6011/Day20/ChatClient/resources";
-        return basePath + fn; // Ensure 'fn' begins with '/' to construct the path correctly.
+       String relativePath = "resources/";
+        if (fn.startsWith("/")) {
+            fn = fn.substring(1);
+        }
+        return relativePath + fn; // ensure 'fn' begins with '/' to construct the path correctly.
 
     }
 

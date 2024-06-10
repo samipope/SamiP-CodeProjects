@@ -1,0 +1,1 @@
+{"type":"message","message":"hello there!","user":"sami","room":"room1"}
