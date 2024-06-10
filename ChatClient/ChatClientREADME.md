@@ -1,13 +1,13 @@
 # Chat Client
 
-## Languages Used
+## Languages Used:
 - Java
 - HTML
 - CSS
 - JavaScript
 
 
-## Features
+## Key Features:
 - **Real-Time Communication**: Enables instant messaging across different browsers, utilizing WebSocket technology for efficient, live data transfer.
 - **Concurrency Management**: Manages multiple user connections simultaneously, showcasing skills in handling concurrency and multithreading in Java.
 - **Full-Stack Development**: Incorporates both front-end and back-end technologies including HTML, CSS, JavaScript, and Java, demonstrating a comprehensive approach to web application development.
