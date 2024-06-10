@@ -1,0 +1,2 @@
+{"type":"join","user":"user","room":"namedroom"}
+{"type":"join","user":"newUserMan","room":"namedroom"}

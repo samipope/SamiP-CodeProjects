@@ -1,0 +1,73 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f0fff0; /* A very light green background */
+    color: #004d40; /* Darker green for text for contrast */
+    padding: 20px;
+}
+
+#controls, #sendMessage {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#chatContainer {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+
+#People, #Messages {
+    border: 2px solid #80cbc4; /* Soft green borders */
+    padding: 10px;
+    width: 45%;
+    border-radius: 15px; /* Rounded corners for a softer look */
+    background-color: #e0f2f1; /* Very light green background for the chat areas */
+}
+
+#People h2, #Messages h2 {
+    margin-top: 0;
+    font-family: 'Courier New', Courier, monospace; /* A touch of elegance with a monospace font */
+    color: #00695c; /* Slightly darker green for headings */
+}
+
+input[type="text"] {
+    margin: 0 10px 20px 0;
+    padding: 10px;
+    border: 2px solid #4db6ac; /* Soft green for input borders */
+    border-radius: 20px; /* More rounded edges for a softer look */
+    width: calc(100% - 22px); /* Adjust width to fit border and padding */
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #4db6ac; /* Soft green background for buttons */
+    color: white;
+    border: none;
+    border-radius: 20px; /* Rounded buttons */
+    cursor: pointer;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; /* A more "girly" font */
+    margin-top: 10px; /* Spacing above buttons */
+}
+
+button:hover {
+    background-color: #009688; /* A bit darker green for hover effect */
+}
+
+/* Additional styling for better layout */
+#sendMessage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#sendMessage label {
+    margin-right: 10px;
+}
+
+#sendMessage input {
+    flex-grow: 1; /* Allows the input to grow and fill available space */
+}
+
+#controls input, #sendMessage button {
+    margin-bottom: 0; /* Aligns items better vertically */
+}

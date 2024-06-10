@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat Client Server</title>
+    <link rel="stylesheet" href="chat.css">
+    <script defer src="chat.js"></script>
+</head>
+
+<body>
+<h1>Chat Client Server</h1>
+<div id="controls">
+    <label for="Username">Username:</label>
+    <input type="text" id="Username" >
+    <label for="chatroom">ChatRoom:</label>
+    <input type="text" id="chatroom" >
+    <button id="joinRoomButton">Join Room</button>
+    <button id="leaveRoomButton">Leave Room</button>
+</div>
+
+<div id="chatContainer">
+    <div id="People">
+        <h2>People in Chatroom:</h2>
+    </div>
+
+    <div id="Messages">
+        <h2>Messages:</h2>
+    </div>
+</div>
+
+<div id="sendMessage">
+    <label for="message">Message:</label>
+    <input type="text" id="message">
+    <button id="sendButton">Send</button>
+</div>
+</body>
+</html>

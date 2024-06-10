@@ -1,0 +1,1 @@
+{"type":"message","message":"friend","user":"message","room":"hi","timestamp":"there"}
