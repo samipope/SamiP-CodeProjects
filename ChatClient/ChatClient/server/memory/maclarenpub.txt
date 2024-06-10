@@ -1,0 +1,4 @@
+{"type":"message","message":"Hi barney!","user":"Ted","room":"maclarenpub"}
+{"type":"message","message":"Hi Ted!","user":"Barney","room":"maclarenpub"}
+{"type":"message","message":"How are you??","user":"Barney","room":"maclarenpub"}
+{"type":"message","message":"Good thanks, how are you?","user":"Ted","room":"maclarenpub"}
