@@ -5,7 +5,7 @@ Below is a list of each project with hyperlinks to their readme files. In each r
 
 Thank you for your time and looking at what I have created!
 
-## ChatClient [Chat Client README](./ChatClient/ChatClientREADME.md)
+## [ChatClient](./ChatClient/ChatClientREADME.md)
 Languages: Java, JavaScript, css, html
   
 ## SamiScript
