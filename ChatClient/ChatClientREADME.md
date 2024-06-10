@@ -8,9 +8,14 @@
 
 
 ## Features
-- Real-time communication across different browsers.
-- Users can join specific rooms to chat.
-- System utilizes WebSockets for efficient, live data transfer.
+- **Real-Time Communication**: Enables instant messaging across different browsers, utilizing WebSocket technology for efficient, live data transfer.
+- **Concurrency Management**: Manages multiple user connections simultaneously, showcasing skills in handling concurrency and multithreading in Java.
+- **Full-Stack Development**: Incorporates both front-end and back-end technologies including HTML, CSS, JavaScript, and Java, demonstrating a comprehensive approach to web application development.
+- **Scalable Architecture**: Designed to support multiple users and rooms without degradation in performance, illustrating principles of scalable software architecture.
+- **Network Programming**: Extensive use of network protocols (HTTP, WebSocket) to establish and maintain communications, highlighting skills in network programming.
+- **User Experience Design**: Ensures a seamless and responsive user interface on various devices and browsers, emphasizing attention to cross-platform compatibility and user experience.
+- **JSON Data Handling**: Utilizes JSON for messaging and data interchange between clients and server, showing proficiency in working with data formats and APIs.
+
 
 <img width="1399" alt="Screenshot 2024-06-10 at 3 10 14 PM" src="https://github.com/samipope/SamiP-CodeProjects/assets/142822253/cd6146d2-053b-46c5-84c9-f3f376a50bd3">
 
