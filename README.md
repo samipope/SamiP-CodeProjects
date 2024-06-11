@@ -13,8 +13,12 @@ Thank you for your time and looking at what I have created!
 ## [SamiScript](./samiScript/samiScriptREADME.md)
 - A custom scripting language designed to parse and evaluate user input
 - Languages: C++
-- Key Features: Catch testing, parsing user input, boolean, if/else expression, substituion, error handling
+- Key Features: Catch testing, Parsing user input, boolean, if/else expression, substituion, error handling
 
+## [TLSLite](./TLSLite/TLSLiteREADME.md)
+- Implementation of a lightweight transport layer security protocol in Java
+- Lagnuage: Java
+- Key Features: Encryption/decryption, certificates, diffie-hellman key exchanges
 
 
 - [Girls Just wanna Debug](./GJWDREADME.md)
