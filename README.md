@@ -9,7 +9,7 @@ Thank you for your time and looking at what I have created!
 - Languages: Java, JavaScript, css, html
 - Key Features: JSON, HTTP, Web Sockets, Multithreading, Full stack development
   
-## [SamiScript](./samiScript/SamiScriptREADME.md)
+## [SamiScript](./samiScript/samiScriptREADME.md)
 Languages:
 
 
