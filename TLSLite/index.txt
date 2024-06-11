@@ -1,0 +1,2 @@
+V	250313163151Z		1000	unknown	/C=US/ST=UT/O=UOFU/OU=MSD/CN=SERVER/emailAddress=u1195258@umail.utah.edu
+V	250313163258Z		1001	unknown	/C=US/ST=UT/O=UOFU/OU=MSD/CN=CLIENT/emailAddress=u1195258@umail.utah.edu

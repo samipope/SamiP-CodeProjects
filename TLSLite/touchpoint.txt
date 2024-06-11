@@ -1,0 +1,34 @@
+Samantha Pope
+Touchpoint 
+
+CAcertificate.pem --> CA Certificate:
+	used by both
+	description: contains public key of certificate authority. certificate is used to verify the authenticity of the server and client certificates. 
+
+serverPrivate.key --> Server private key:
+	used by server
+	description: private key of server. used for decrypting info encrypted with server's public key and signing messages to ensure it is real
+
+server.csr --> Server CSR
+	used by CA (not used at runtime by client/server)
+	description: certificate signing request for server. it includes public key of server and some identifying info. used to request a certificate from the CA
+
+CASignedServerCertificate.pem --> CA signed server certificate:
+	used by server and client
+	description: contains server public key signed by CA. proof the server is trusted by CA
+
+clientPrivate.key --> Client Private Key:
+	used by client
+	description: private key of client. used for decrypting info encrypted with the client's public key and signing messages to ensure authentic
+
+client.csr --> client CSR:
+	used by CA (not used by client/server at runtime)
+	description: certificate signing request for the client. includes the public key of the client and some identifying info. used to request certificate from CA
+
+CASignedClientCertificate.pem --> CA Signed Client Certificate:
+	used by client and server 
+	description: contains the client's public key signed by the CA. certificate is proof that the client is trusted by CA
+
+serverPrivateKey.der --> Server Private Key in DER format
+	used by server
+	description: server's private key converted to DER formate for easier use with Java. It serves the same purpose as the PEM-formatted private key but is in a binary format for Java applications
