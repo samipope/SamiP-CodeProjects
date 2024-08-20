@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Cause of Death Visualization</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+</head>
+<body>
+    <h1>CAUSE OF DEATH VISUALIZATION</h1>
+    <h2>By Samantha Pope and Sarah Bateman</h2>
+    <h2>CS6017 Final Project - 07.27.2024</h2>
+    <div id="unscaled-chart">
+        <h2>TOTAL DEATHS PER YEAR</h2>
+        <p>This chart shows the raw number of deaths per disease per year. Hover over a line in the line chart to see which disease that is associated with</p>
+    </div>
+    <div id="scaled-chart">
+        <h2> TOTAL DEATHS PER YEAR, COMPARED TO 1990</h2>
+        <p>This chart shows the number of deaths per disease per year, scaled relative to the first year in the dataset (1990).</p>
+    </div>
+    <div id="zoomable-bar-chart">
+        <h2>CARDIOVASCULAR DEATHS OVER THE YEARS</h2>
+        <p>This graph showes the number of deaths per year that occured due to cardiovascular disease. Zoom in by clicking a part of the graph or zooming using the mousepad. </p>
+    </div>
+    <div id="disease-selection">
+        <label for="disease">SELECTED DISEASE: </label>
+        <select id="disease"></select>
+    </div>
+    <div id="world-map">
+      <h2>TOTAL DEATHS PER COUNTRY IN 2019 FOR SELECTED DISEASE</h2>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
