@@ -7,13 +7,13 @@ Thank you for your time and looking at what I have created!
 
 ## [ChatClient](./ChatClient/ChatClientREADME.md)
 - Chat rooms using websockets to establish multiple connections simultaneously
-- Languages: Java, JavaScript, css, html
+- Languages: Java, JavaScript, HTML, CSS
 - Key Features: JSON, HTTP, Web Sockets, Multithreading, Full stack development
   
 ## [SamiScript](./samiScript/samiScriptREADME.md)
 - A custom scripting language designed to parse and evaluate user input
 - Languages: C++
-- Key Features: Catch testing, parsing user input, boolean, if/else expression, substituion, error handling
+- Key Features: Scripting, Catch Frameworktesting, parsing user input, boolean, if/else expression, substituion, error handling
 
 ## [TLSLite](./TLSLite/TLSLiteREADME.md)
 - A lightweight implementation of the Transport Layer Security (TLS) protocol, focusing on secure communication channels over networks.
@@ -21,5 +21,9 @@ Thank you for your time and looking at what I have created!
 - Key Features: Diffie-Hellman Key Exchange, AES Encryption, Secure Socket Layer (SSL), X.509 Certificates, Cryptographic Hashing, Mutual Authentication
 
 ## [Cause of Death Visualization](https://samipope.github.io/SamiP-CodeProjects/)
+- A data visualization project using D3 libraries to understand cause of deaths in each country throughout many years.
+- Languages: Javascript, Python, HTML, CSS
+- Key Features: Interactive world map displaying the prevalence of different diseases by country and year, time-series analysis with dynamic charts and filters, intuitive user interface for exploring complex datasets
 
-- [Girls Just wanna Debug](./GJWDREADME.md)
+## [Girls Just wanna Debug](./GJWDREADME.md)
+- Collaborative project with @JessP127 and @ZizFrisch
