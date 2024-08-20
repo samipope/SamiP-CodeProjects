@@ -30,3 +30,99 @@
 *.exe
 *.out
 *.app
+
+# Qt Project files
+*.pro.user
+*.qmake.stash
+*.qmake.cache
+
+# Qt Creator files
+*.autosave
+*.creator.user
+*.creator.user.*
+*.creator.cdb
+*.creator.cdb.*
+*.creator.layout
+*.creator.layout.*
+*.creator.shared.*
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+env/
+venv/
+ENV/
+VENV/
+venv.bak/
+ENV.bak/
+
+# Python-specific files
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+*.pyc
+
+# Java class files
+*.class
+
+# Java package files
+*.jar
+*.war
+*.ear
+
+# Log files
+*.log
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# C++ specific
+*.dSYM/
+*.cpp.o
+*.cpp.obj
+*.log
+*.ii
+*.ll
+*.out
+*.su
+*.d
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Icon must end with two \r
+Icon
+
+# Trashes
+.Trashes
