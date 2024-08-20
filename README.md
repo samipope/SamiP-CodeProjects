@@ -15,6 +15,10 @@ Thank you for your time and looking at what I have created!
 - Languages: C++
 - Key Features: Catch testing, parsing user input, boolean, if/else expression, substituion, error handling
 
+## [TLSLite](./TLSLite/TLSLiteREADME.md)
+- A lightweight implementation of the Transport Layer Security (TLS) protocol, focusing on secure communication channels over networks.
+- Languages: Java
+- Key Features: Diffie-Hellman Key Exchange, AES Encryption, Secure Socket Layer (SSL), X.509 Certificates, Cryptographic Hashing, Mutual Authentication
 
 
 - [Girls Just wanna Debug](./GJWDREADME.md)
