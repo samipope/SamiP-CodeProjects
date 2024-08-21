@@ -27,7 +27,7 @@ Thank you for your time and looking at what I have created!
 
 
 ## [Girls Just wanna Debug](./GJWDREADME.md)
--A dynamic video game developed in Qt Creator, featuring real-time object spawning, collision detection, screen transitions, and persistent user data with high score tracking
+- A dynamic video game developed in Qt Creator, featuring real-time object spawning, collision detection, screen transitions, and persistent user data with high score tracking
 - Project Management: Employed Agile methodologies, utilizing GitHub issues, projects, and actions to ensure efficient workflow and collaboration.
 - Technologies: Developed using JSON, C++, and Qt for a robust and scalable gaming experience.
 - Collaboration: Created in partnership with @JessP127 and @ZizFrisch over two intensive one-week sprints.
