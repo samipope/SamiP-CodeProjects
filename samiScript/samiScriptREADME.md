@@ -15,7 +15,7 @@ SamiScript is a custom scripting language developed in C++ designed to parse and
 <img width="595" alt="Screenshot 2024-06-10 at 9 16 02 PM" src="https://github.com/samipope/SamiP-CodeProjects/assets/142822253/dcfb712b-64e9-4d1b-9143-0fa68e7388da">
 
 ## How to Run:
-1. Compile the project bur running "make"
+1. Compile the project by running "make"
    If you run "make test" then it runs all of the tests in the ExprTest.cpp
 2. After compiling, your executable "samiscript" will be made
      You can run "./samiscrpt --help" to see all options of commands

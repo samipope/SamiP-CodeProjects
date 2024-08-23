@@ -5,6 +5,11 @@ Below is a list of each project with hyperlinks to their readme files. In each r
 
 Thank you for your time and looking at what I have created!
 
+## [Cause of Death Visualization](https://samipope.github.io/SamiP-CodeProjects/)
+- A data visualization project using D3 libraries to understand cause of deaths in each country throughout many years.
+- Languages: Javascript, Python, HTML, CSS
+- Key Features: Interactive world map displaying the prevalence of different diseases by country and year, time-series analysis with dynamic charts and filters, intuitive user interface for exploring complex datasets
+
 ## [ChatClient](./ChatClient/ChatClientREADME.md)
 - Chat rooms using websockets to establish multiple connections simultaneously
 - Languages: Java, JavaScript, HTML, CSS
@@ -20,10 +25,10 @@ Thank you for your time and looking at what I have created!
 - Languages: Java
 - Key Features: Diffie-Hellman Key Exchange, AES Encryption, Secure Socket Layer (SSL), X.509 Certificates, Cryptographic Hashing, Mutual Authentication
 
-## [Cause of Death Visualization](https://samipope.github.io/SamiP-CodeProjects/)
-- A data visualization project using D3 libraries to understand cause of deaths in each country throughout many years.
-- Languages: Javascript, Python, HTML, CSS
-- Key Features: Interactive world map displaying the prevalence of different diseases by country and year, time-series analysis with dynamic charts and filters, intuitive user interface for exploring complex datasets
 
 ## [Girls Just wanna Debug](./GJWDREADME.md)
-- Collaborative project with @JessP127 and @ZizFrisch
+- A dynamic video game developed in Qt Creator, featuring real-time object spawning, collision detection, screen transitions, and persistent user data with high score tracking
+- Project Management: Employed Agile methodologies, utilizing GitHub issues, projects, and actions to ensure efficient workflow and collaboration.
+- Technologies: Developed using JSON, C++, and Qt for a robust and scalable gaming experience.
+- Collaboration: Created in partnership with [@JessP127](https://github.com/JessP127) and [@ZizFrisch](https://github.com/ZizFrisch) over two intensive one-week sprints.
+  
