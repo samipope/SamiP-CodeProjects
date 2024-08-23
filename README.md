@@ -26,7 +26,7 @@ Thank you for your time and looking at what I have created!
 - Key Features: Diffie-Hellman Key Exchange, AES Encryption, Secure Socket Layer (SSL), X.509 Certificates, Cryptographic Hashing, Mutual Authentication
 
 
-## [Girls Just wanna Debug](./GJWDREADME.md)
+## [Girls Just wanna Debug](./GirlsJustWannaDebug/GJWDREADME.md)
 - A dynamic video game developed in Qt Creator, featuring real-time object spawning, collision detection, screen transitions, and persistent user data with high score tracking
 - Project Management: Employed Agile methodologies, utilizing GitHub issues, projects, and actions to ensure efficient workflow and collaboration.
 - Technologies: Developed using JSON, C++, and Qt for a robust and scalable gaming experience.
