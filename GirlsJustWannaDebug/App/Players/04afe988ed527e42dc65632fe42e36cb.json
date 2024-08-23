@@ -1,0 +1,20 @@
+{
+    "birthDate": "Wed Jul 14 1999",
+    "firstName": "Jessica",
+    "gender": "Female",
+    "lastName": "Payton",
+    "password": "Hello123",
+    "profilePicPath": "/Users/jessicapayton/msd/water-droplet-game/WaterDropletGame/Players/04afe988ed527e42dc65632fe42e36cb.jpeg",
+    "scoreHistory": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        25,
+        20,
+        22,
+        105
+    ],
+    "userName": "JessP"
+}

@@ -1,0 +1,20 @@
+{
+    "birthDate": "Tue Apr 18 2000",
+    "firstName": "sam",
+    "gender": "Female",
+    "lastName": "pop",
+    "password": "Hello1234",
+    "profilePicPath": "/Users/samanthapope/waterDropGame/water-droplet-game/WaterDropletGame/Players/11f039d696c0bee41873853d0e1a9614.jpeg",
+    "scoreHistory": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        8,
+        8,
+        20,
+        125
+    ],
+    "userName": "samp"
+}

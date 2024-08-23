@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/background.jpg</file>
+        <file>images/bucket.png</file>
+        <file>images/cloud.png</file>
+        <file>images/water.gif</file>
+        <file>images/loginBackground.jpg</file>
+        <file>images/birthday-cake.jpg</file>
+        <file>images/binaryBackground.jpg</file>
+        <file>images/sami-hacker.png</file>
+        <file>images/glow-bug.png</file>
+        <file>images/bug.png</file>
+        <file>images/deathImage.png</file>
+        <file>images/girlsJustWannaDebug.png</file>
+        <file>images/wonImage.png</file>
+        <file>sounds/caughtBug.wav</file>
+        <file>sounds/missedBug.wav</file>
+
+    </qresource>
+</RCC>

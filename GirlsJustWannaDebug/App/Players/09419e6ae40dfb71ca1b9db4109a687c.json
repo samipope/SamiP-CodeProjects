@@ -1,0 +1,17 @@
+{
+    "birthDate": "Fri Jul 14 2000",
+    "firstName": "John",
+    "gender": "male",
+    "lastName": "Doe",
+    "password": "Johndoe1!!",
+    "profilePicPath": "://images/sKB3FyFYpX-2.png",
+    "scoreHistory": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        500
+    ],
+    "userName": "Johndoe1"
+}
