@@ -20,11 +20,6 @@ Thank you for your time and looking at what I have created!
 - Languages: Javascript, Python, HTML, CSS
 - Key Features: Interactive world map displaying the prevalence of different diseases by country and year, time-series analysis with dynamic charts and filters, intuitive user interface for exploring complex datasets
 
-## [TLSLite](./TLSLite/TLSLiteREADME.md)
-- A lightweight implementation of the Transport Layer Security (TLS) protocol, focusing on secure communication channels over networks.
-- Languages: Java
-- Key Features: Diffie-Hellman Key Exchange, AES Encryption, Secure Socket Layer (SSL), X.509 Certificates, Cryptographic Hashing, Mutual Authentication
-
 ## [Girls Just wanna Debug](./GirlsJustWannaDebug/GJWDREADME.md)
 - A dynamic video game developed in Qt Creator, featuring real-time object spawning, collision detection, screen transitions, and persistent user data with high score tracking
 - Project Management: Employed Agile methodologies, utilizing GitHub issues, projects, and actions to ensure efficient workflow and collaboration.
